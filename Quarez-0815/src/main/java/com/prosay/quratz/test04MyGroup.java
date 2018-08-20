@@ -10,6 +10,7 @@ public class test04MyGroup {
 	// 任务组  Job Group
 	// 规则组  Trigger Group
 	
+	private String str = "123";
 	//调度器
 	private static SchedulerFactory schedulerFactory = new StdSchedulerFactory();
 
