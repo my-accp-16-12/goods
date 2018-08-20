@@ -17,6 +17,7 @@ public class test02_will {
     @SuppressWarnings("unchecked")  
     public static void addJob(String jobName, Class cls, String time) {  
         try {  
+		//123123213321213
         	//触发器
             Scheduler sched = gSchedulerFactory.getScheduler();  
             System.out.println("阿斯顿撒");
