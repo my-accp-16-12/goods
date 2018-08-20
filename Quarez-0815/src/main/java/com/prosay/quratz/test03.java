@@ -30,7 +30,7 @@ public class test03 {
 				.startNow()
 				.build();
 		
-		
+		//23324324
 		
 		//任务
 		JobDetail jobDetail = JobBuilder
