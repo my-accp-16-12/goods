@@ -45,7 +45,7 @@ public class test01 {
 		
 		scheduler.scheduleJob(detail, cronTrigger);
 		
-		
+		//撒旦
 		//启动
 		scheduler.start();
 		
