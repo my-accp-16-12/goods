@@ -19,7 +19,7 @@ public class test02_will {
         try {  
         	//触发器
             Scheduler sched = gSchedulerFactory.getScheduler();  
-            
+            System.out.println("阿斯顿撒");
             //任务
             JobDetail jobDetail = JobBuilder
             		.newJob(cls)
